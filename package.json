@@ -1,0 +1,22 @@
+{
+  "name": "itpm_assignment1_it22108036",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charitha-Jayarathne/ITPM_Assignment1_IT22108036.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charitha-Jayarathne/ITPM_Assignment1_IT22108036/issues"
+  },
+  "homepage": "https://github.com/Charitha-Jayarathne/ITPM_Assignment1_IT22108036#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.1.0"
+  }
+}
