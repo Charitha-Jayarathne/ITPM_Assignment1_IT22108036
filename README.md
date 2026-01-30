@@ -15,7 +15,7 @@ Chose playwright Test:-True
 Root directory:- npm install
 
 #step 4
-#Install latest version of Playwright Test:- D @playwright/test@latest
+#Install latest version of Playwright Test:- npm install -D @playwright/test@latest
 
 #step 5 
 install browsers:- npx playwright install --with-deps
